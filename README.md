@@ -41,16 +41,6 @@ alt="PHP" align="left" height="48" width="48" />
 
 
   &nbsp; 
-    
-### :fire: Stats :
-
-<a href="https://github.com/Alhelali34/website">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alhelali34&show_icons=true&hide=contribs&count_private=true&theme=algolia" />
-</a>
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alhelali34&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
