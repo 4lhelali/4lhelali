@@ -43,6 +43,26 @@ alt="PHP" align="left" height="48" width="48" />
 
   &nbsp; 
 
+## 🔥 Github Stats
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alhelali34&theme=algolia" />
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Alhelali34&show_icons=true&theme=algolia" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alhelali34&layout=compact&theme=algolia" />
+
+</p>
 
 
 
