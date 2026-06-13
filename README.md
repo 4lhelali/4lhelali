@@ -8,6 +8,7 @@
 
 - A Full-Stack Web Developer;
 - Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, July 2022;
+- 🌱 I’m currently learning on my skills in macchine learning and AI.
 
 
 <img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
@@ -23,6 +24,16 @@
 <img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/nodejs-seeklogo.com.svg" alt="pic" align="left" height="48" width="48" >
 <img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/sequelize-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" >
 <img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/unity-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" > 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+alt="Go" align="left" height="48" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+alt="Python" align="left" height="48" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
+alt="Machine Learning" align="left" height="48" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
+alt="FastAPI" align="left" height="48" width="48" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+alt="PHP" align="left" height="48" width="48" />      
 </div>
 <br />   
 
