@@ -1,69 +1,155 @@
-## 👨‍💻  Hello <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-[![Linkedin Badge](https://img.shields.io/badge/-mohammed_ghaleb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammed-ghaleb-693847230/)](https://www.linkedin.com/in/mohammed-ghaleb-693847230/) 
-[![Gmail Badge](https://img.shields.io/badge/-alhelalimhmd750@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alhelalimhmd750@gmail.com)](mailto:alhelalimhmd750@gmail.com)
-<br />
--
+<h1 align="center">
+  Hi 👋, I'm Mohammed Ghaleb
+</h1>
 
-### I am Mohammed Ghaleb 💻
+<h3 align="center">
+  Full-Stack Developer | Machine Learning & AI Enthusiast
+</h3>
 
-- A Full-Stack Web Developer;
-- Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, July 2022;
-- 🌱 I’m currently learning on my skills in macchine learning and AI.
+<p align="center">
+
+<a href="https://www.linkedin.com/in/mohammed-ghaleb-693847230/">
+<img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Ghaleb-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:alhelalimhmd750@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
 
 
-<img align="right" width="380px" alt="GIF" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" />
-      
-## :hammer_and_wrench: Languages and Tools :
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif">
+
+
+- 💻 Full-Stack Web Developer
+- 🎓 Graduate of Youthink Academy Powered by Woz U, California
+- 🌱 Currently improving my skills in:
+  - Machine Learning
+  - Artificial Intelligence
+  - Backend Development
+- 🚀 Passionate about building scalable applications
+
+
+<br clear="both">
+
+
+---
+
+# 🛠️ Languages & Tools
+
+
+### Frontend
+
 <div>
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/html5-with-wordmark-color.svg"  alt="pic" align="left" height="48" width="48" >  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/css-3-svgrepo-com.svg" alt="pic" align="left" height="48" width="48" >  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/javascript.svg" alt="pic" align="left" height="48" width="48" ></a>  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/material-ui-seeklogo.com.svg" alt="pic" align="left" height="48" width="48" >  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/react-seeklogo.com.svg" align="left" alt="pic" height="48" width="48" >  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/mysql-logo-svgrepo-com.svg" alt="pic" align="left" height="48" width="48" >  
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/nodejs-seeklogo.com.svg" alt="pic" align="left" height="48" width="48" >
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/sequelize-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" >
-      <br/>
-<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/unity-seeklogo.com.svg"  alt="pic" align="left" height="48" width="48" > 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-alt="Go" align="left" height="48" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-alt="Python" align="left" height="48" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg"
-alt="Machine Learning" align="left" height="48" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg"
-alt="FastAPI" align="left" height="48" width="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-alt="PHP" align="left" height="48" width="48" />      
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/html5-with-wordmark-color.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/css-3-svgrepo-com.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/javascript.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/react-seeklogo.com.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/material-ui-seeklogo.com.svg" width="50">
+
 </div>
-<br />   
 
 
 
+### Backend
 
-  &nbsp; 
+<div>
 
-## 🔥 Github Stats
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/nodejs-seeklogo.com.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/sequelize-seeklogo.com.svg" width="50">
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/mysql-logo-svgrepo-com.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50">
+
+</div>
+
+
+
+### Programming Languages
+
+<div>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50">
+
+</div>
+
+
+
+### AI / Machine Learning
+
+<div>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50">
+
+</div>
+
+
+
+### Game Development
+
+<div>
+
+<img src="https://github.com/Mousashi7/Mousashi7/blob/main/logos/unity-seeklogo.com.svg" width="50">
+
+</div>
+
+
+
+---
+
+# 🔥 GitHub Stats
+
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=4lhelali&theme=algolia" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4lhelali&theme=algolia">
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=4lhelali&show_icons=true&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api?username=4lhelali&show_icons=true&theme=algolia">
 
 </p>
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lhelali&layout=compact&theme=algolia" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4lhelali&layout=compact&theme=algolia">
 
 </p>
 
 
 
- 
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:alhelalimhmd750@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/mohammed-ghaleb-693847230/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
