@@ -31,7 +31,6 @@
 - 🌱 Currently improving my skills in:
   - Machine Learning
   - Artificial Intelligence
-  - Backend Development
 - 🚀 Passionate about building scalable applications
 
 
